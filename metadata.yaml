@@ -1,0 +1,39 @@
+_repo: La-veille-d-armes--13-Pi-ce-en-cinq-actes_11037
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Farrère, Claude
+    aliases:
+    - Bargone, Francois Charles
+    - Bargone, François Charles
+    - Toulven, Pierre
+    - Bargone, Frédéric Charles Pierre Édouard
+    - Bargone, Charles
+    - Farrere, Claude
+    - Bargone, Frederic Charles Pierre Edouard
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '3805'
+    url: http://www.gutenberg.org/2009/agents/3805
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
+  - agent_name: Népoty, Lucien
+    alias: Nepoty, Lucien
+    gutenberg_agent_id: '4447'
+    url: http://www.gutenberg.org/2009/agents/4447
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11037'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Marine -- Drama'
+- !lcc 'PQ'
+- !lcsh 'Courts-martial and courts of inquiry -- Drama'
+- GITenberg
+title: "La veille d'armes\r\nPièce en cinq actes"
+url: http://www.gutenberg.org/ebooks/11037
